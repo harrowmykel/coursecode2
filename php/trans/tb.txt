@@ -1,0 +1,116 @@
+Submission Date dd-mm-yyyy
+Submission Time hh-mm
+Deactivated
+Time
+Method
+Submission method. save file with your matric number, fullname?
+Done
+Reactivate
+Deactivate
+Save
+Sorry,  An Error Occured!
+Reload
+Rename
+Name
+Value
+Edit Profile edit_prof
+Done! Profile Saved prof_saved
+
+Save Profile save_prof
+
+ Cancel cancel
+ Assignments assignments
+ New Assignment Code crt_new_ass
+
+ Time Created time_crtd
+ Prev prev
+ Next next
+ Create a new Assignment crt_a_new_ass
+ Learn more. learn_more
+ We also support Markdown Language at the description. mrk_support
+ External Link ext_link
+ Visit Site visit_site
+ Edit Assignment code edit_code
+ Assignment Title ass_title
+ Submission time sub_time
+ Submission Date sub_date
+ Get Assignment Code get_ass_code
+ Delete this link? del_this_link
+ Are you sure You would like to delete this link? This can not be undone! deactivate instead! del_warning
+ Delete del
+ Deleted! deltd
+ Edit edit
+ Get Compressed File get_comp_file
+ Get Spreadsheet get_spreadsheet
+ Description desc
+Submissions subms
+S/N s_n
+File Name f_name
+File Type f_type
+File Size f_size
+File Upload Time f_upl_time
+Total Submissions! total_subms
+Username username
+Matric matric
+Email email
+School school
+Student? student_quest
+Country country
+Registration Time reg_time
+Date Of Birth (DD-MM-YYYY)* date_of_birth_dd
+Input Password To Confirm input_pass_to_c
+Edit Password edit_pass
+Save Profile save_prof
+Home home
+Sign up sign_up
+Terms and conditions t_and_c
+Contact contact
+Please input your password to continue input_pass_go
+Email address email_add
+Password password
+Remember me rmrb_me
+forgot password? frgt_pass
+Create a new account. crt_a_new_acct
+Try a faster login, Get the Android App (beta). try_app_beta
+Submitted Assignments submitt_ass
+Created Assignments created_ass
+Messages messages
+Profile profile
+Logout logout
+search_ellipsis Search...
+Submit A New Assignment subm_new_ass
+Time Submitted time_submitted
+Conversation conversation
+Send send
+Search search
+Be Inspired! be_inspired
+View Created Assignments view_crtd_ass
+Edit Assignment edit_ass
+Input Assignment Code input_ass_code
+Go go
+Add to Watchlist add_watchlist
+Message message
+Submit Assignment sub_ass
+Upload a file upload_a_
+Create a file create_a_
+Submit submit
+Type Assignment here type_ass_here
+Use The text Above use_this_ass
+This assignment has been deactivated! ass_has_bn_deactd
+Input Assignment Code first input_ass_code_first
+Title title
+
+
+
+
+"Done! New date is {{0}} --data_res
+{{0}} renamed to {{1}}!  --ass_rename
+Rename this link?  rename_con
+Are you sure You would like to rename this link __ to __? This may not be undone! deactivate instead. $rename_con2
+Old Password old_pass
+New Password new_pass
+Refresh refresh
+'done_more')."Done! $rtto
+More
+"Invalid Username or Password inv_pass
+success,  File Uploaded as $f_nm ($f_sz)! f_uploaded_

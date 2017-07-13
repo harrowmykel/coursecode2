@@ -1,0 +1,6 @@
+With over 41.14 million users as at 12th February, 2016 in the country, android may be the boss of the mobile market but as a developer in a developing country, most of the time, the number of potential users is not the only factor that counts but the number of viable users, users who have the ability and are willing to either pay for in-app-purchases or purchase the app directly from the playstore and not send from phones to phones that matters. It is needless to say that the IOS was built for the rich and "the money-havers" who are ready to pay more money to the developer, than have it tweaked or patched as it is common with the android users.
+ However, whichever one's choice should be based on how easy it is to learn its language, the number of programmers available or how needed one is in the market and especially if you are building to get rich or to have your application across more users. I will rather be an IOS developer than an android as it provides more value for my knowledge and because there are fewer IOS developer, thus more career opportunities.
+
+
+ARO Micheal O.
+Universtiy of Ibadan.
